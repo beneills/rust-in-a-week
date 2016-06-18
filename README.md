@@ -99,3 +99,7 @@ pushed to the [Github Repository](https://github.com/beneills/rust-in-a-week).
 * 5.10. Borrow and AsRef
 * 5.11. Release Channels
 * 5.12. Using Rust without the standard library
+
+## Terminal Sessions
+
+[Day 1](https://asciinema.org/a/ep9qtg01elhcrr9k7nzdgwhyt)
